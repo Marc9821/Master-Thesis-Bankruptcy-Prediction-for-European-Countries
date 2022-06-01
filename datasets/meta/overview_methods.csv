@@ -1,0 +1,20 @@
+﻿Method,Number,Category
+Logistic regression (Logit),123,Classical Statistical Models
+Neural Network,56,Machine Learning and Artificial Intelligence Models
+Discriminant analysis,52,Classical Statistical Models
+MDA & Z-score,33,Classical Statistical Models
+Support vector machine,32,Machine Learning and Artificial Intelligence Models
+Decision tree,21,Machine Learning and Artificial Intelligence Models
+Genetic algorithm,20,Machine Learning and Artificial Intelligence Models
+Hazard,19,Classical Statistical Models
+Fuzzy,17,Machine Learning and Artificial Intelligence Models
+Rough set,13,Machine Learning and Artificial Intelligence Models
+Data mining,11,Machine Learning and Artificial Intelligence Models
+Logit and probit,7,Classical Statistical Models
+Adaboost,7,Other Machine Learning Models
+Probit,6,Classical Statistical Models
+Case-based reasoning,6,Other Machine Learning Models
+Particle swarm optimization,5,Other Machine Learning Models
+K-nearest neighbor,5,Other Machine Learning Models
+Random forest,5,Other Machine Learning Models
+Naive Bayes classifier,3,Other Machine Learning Models
