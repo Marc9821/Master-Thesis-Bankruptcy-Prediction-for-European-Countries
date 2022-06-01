@@ -10,7 +10,8 @@
 6. Light Gradient Boosting Machine (LGBM)
 
 ## Other important aspects
-* Imputation of Missing Values by Multivariate Imputation by Chained Equations (MICE)
+* Imputation of Missing Financial Values by Multivariate Imputation by Chained Equations (MICE)
+* Imputation of Missing Macroeconomic Values by KNN Imputation
 * Hyperparameter tuning with Bayesian Optimization and 5-Fold Stratified Crossvalidation
 * Adressing Class Imbalance with Hybrid Method Synthetic Minority Oversampling Technique with Edited Nearest Neighbors (SMOTE-ENN)
 * Evaluation using Precision Recall Area under Curve (PRAUC) and Area under Receiver Operating Characteristics Curve (AUROC)
